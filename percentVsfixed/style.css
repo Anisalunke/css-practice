@@ -10,9 +10,11 @@ body {
     background-color: #23424A;
     padding: 50px;
     width: 80%;
+    margin: 0 auto;
 }
 
 .child {
     background-color: #38CFd9;
     height: 250px;
+    width: 50%;
 }
